@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rn-movie-2022",
+    "slug": "rn-movie-2022",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rn-movie-2022"
+}
